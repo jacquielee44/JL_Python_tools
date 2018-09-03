@@ -13,7 +13,7 @@ createArcticTransects
 creates the CAA and CanBar transects and plots N^2, salinity, temperatue, and kappa
 
 depth_contour
-not used – function to calculate the thalweg 
+NOT USED  – function to calculate the thalweg 
 
 Depth_From_Bottom
 Calcluates DFB for kappa and plots the results. To change what is calculated, some small modifications need to be made (i.e. to change to shallow vs deep profile calculation)
@@ -22,7 +22,7 @@ Flux_calc_exp
 Defines the contours for the shelves and sets up to calculated the fluxes across them
 
 fouryravg
-calculates the 4 year averages for all the fields. Also has many random pieces that are not used. Was used to experiment then the cleaned version would be implemented in another script.
+Calculates the 4 year averages for all the fields. Also has many random pieces that are not used. Was used to experiment then the cleaned version would be implemented in another script.
 
 HCandFWC
 Calculates fwc and hc for all three model runs plus anomalies. Need to change what id commented if the depth of the 34.8 isopycnal is wanted to be calculated instead. 
